@@ -2,7 +2,7 @@ namespace StumbleGuysMod
 {
     public static class ConfigLoader
     {
-        public static readonly string ConfigPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData), "Stumble Guys Mod", "config.txt");
+        private static readonly string ConfigPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData), "Stumble Guys Mod", "config.txt");
 
         public static void SaveSettings(bool unlockAllCosmetics)
         {

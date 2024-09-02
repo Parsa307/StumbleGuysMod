@@ -10,37 +10,37 @@
 
 <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/net6/0Harmony.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/net6/0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppInterop.Runtime">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/Dependencies/SupportModules/Il2CppInterop.Runtime.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/Dependencies/SupportModules/Il2CppInterop.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Il2Cppmscorlib">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/Il2Cppmscorlib.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/Il2Cppmscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppStumble.Runtime">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/Il2CppStumble.Runtime.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/Il2CppStumble.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="MelonLoader">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/net6/MelonLoader.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/net6/MelonLoader.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextRenderingModule">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.TextRenderingModule.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.TextRenderingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIModule">
-      <HintPath>/home/parsa/.local/share/Steam/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.UIModule.dll</HintPath>
+      <HintPath>/home/parsa/.steam/debian-installation/steamapps/common/Stumble Guys/MelonLoader/Il2CppAssemblies/UnityEngine.UIModule.dll</HintPath>
     </Reference>
   </ItemGroup>
 

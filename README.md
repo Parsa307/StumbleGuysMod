@@ -16,10 +16,6 @@ This mod for Stumble Guys utilizes MelonLoader.
 2. **Mod Usage:**
    - Press `F7` in-game to open the mod menu
 
-## Known Issues
-
-* Skins will be reset after restarting the game
-
 ## Important Note
 
 **Scopley** is known for promoting gambling to kids and allowing their game to be accessed by children. This mod prevents kids from buying skins, which are only available through gambling. If you're a parent, it is recommended to install this mod into your child's game and not disclose how to access the mod.
