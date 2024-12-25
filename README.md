@@ -2,6 +2,8 @@
 
 This mod for Stumble Guys utilizes MelonLoader.
 
+As of December 25, 2024, development of this mod has been officially discontinued. It was a great experience working on the project, but Scopely’s recent security upgrades have made further progress much more difficult and time-consuming. Additionally, the mod hasn't been updated in over three months, making it no longer feasible to continue development. Thanks to everyone who supported the project. Your support has been truly appreciated!
+
 ## Features
 
 * Uses MelonLoader to mod Stumble Guys
